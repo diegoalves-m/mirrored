@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JoyjetTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="categories">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="places">Places</string>
+    <string name="my_life">My life</string>
+    <string name="desc">Lorem ipsum dolor sit amet, consectetur.</string>
+    <string name="moon">Moon</string>
+    <string name="mars">Mars</string>
+    <string name="earth">Earth</string>
+    <string name="capsule">Capsule</string>
+    <string name="curiosity">Curiosity</string>
+    <string name="station">Station</string>
+    <string name="transition_key">transition</string>
+    <string name="big_desc">Vivamus varius, velit eu aliquam ultricies, ipsum urna feugiat quam, id faucibus libero est iaculis velit. Sed ante tortor, luctus quis diam sed, pretium fringilla ipsum. Integer consectetur ultricies feugiat. Integer lacinia vestibulum tortor, sed efficitur neque scelerisque et. Phasellus ligula ligula, consequat sit amet neque in, varius vulputate felis. Praesent quis euismod nibh. Sed libero tortor, lacinia in massa non, consequat maximus nunc. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque placerat varius justo, fringilla facilisis nisl venenatis non. In laoreet, nulla vel accumsan aliquet, felis diam aliquet nisi, a viverra velit orci sed ante. Curabitur egestas a magna at aliquet. Nulla vitae mollis ligula. Nam sem mi, imperdiet sit amet felis congue, dictum convallis quam. Nam bibendum vehicula egestas. Suspendisse tincidunt eros non egestas sollicitudin.
+                            Praesent eget dignissim eros, vitae tincidunt nibh. Etiam eget gravida dolor. Nullam iaculis mauris neque, vel dictum orci pretium vitae. Donec cursus elementum mi, non imperdiet leo dapibus a. Aliquam vel eros lacus. Nam ut arcu libero. Mauris lobortis nulla et lorem feugiat, porttitor mattis purus porttitor. Pellentesque vitae purus sit amet lectus volutpat suscipit. In elementum dui ac tellus euismod, at porttitor risus varius.
+                            Vestibulum at nibh volutpat, pellentesque lacus vitae, fermentum turpis. Sed eu egestas leo. Mauris sit amet leo non nunc molestie consequat ut eu nibh. Vivamus quis ante eu libero posuere iaculis. Duis leo ipsum, finibus vel tortor in, ultricies placerat est. Proin varius, purus a maximus tincidunt, eros quam varius magna, eu aliquet velit nulla id lacus. Quisque mattis, felis quis euismod ultricies, nisl lorem ultricies lectus, ut semper diam felis nec lacus.
+    </string>
+    <string name="title_activity_favorites">FavoritesActivity</string>
+    <string name="no_favorites">No favorites</string>
+    <string name="add_favorites">Added to favorites</string>
+    <string name="remove_favorites">Removed from favorites</string>
+    <string name="site">www.joyjet.com/</string>
+    <string name="joyjet">Joyjet</string>
+    <string name="settings">Settings</string>
+    <string name="download">To download images</string>
+</resources>
